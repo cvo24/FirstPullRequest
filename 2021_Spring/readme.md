@@ -137,7 +137,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Vergara, Maria
 
-- [ ] Vo, Clara
+- [x] Vo, Clara (cvo24) :sweat_smile:
 
 - [ ] Wang, Angela
 
